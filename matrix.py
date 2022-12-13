@@ -20,6 +20,7 @@ for num in reversed(matrix[1]):
            
 for i in matrix[2]:
     print(i.upper())
+    print("a7a")
 
 
 
